@@ -8,7 +8,7 @@
 ```
 A Glimpse of the Operating System.  #一次对操作系统的窥探和学习
 Growing Operating System.           #一个随着知识的增长不断成长的系统
-Ge's Operating System.           #属于自己的系统
+Ge's Operating System.              #属于自己的系统
 ...
 ```
 但是当我写下这个名字进行下一步构想时。我不得不站起身来去应对秋二的捣蛋，因为厕所有被她咬破的水管，阳台有她献祭的便便，当然还有客厅她撕扯的纸巾。。。
